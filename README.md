@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# ADO MURTADO
-# KELAS IF-V-A
-# STTCIPASUNG
+ADO MURTADO
+
 
 
 </header>
